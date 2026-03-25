@@ -12,8 +12,8 @@ This tool simplifies that process directly inside Microsoft Word, eliminating th
 
 It is particularly useful for:
 
-students and academic writing
-administrative and official documents
+- students and academic writing
+- administrative and official documents
 
 Additionally, the implementation of multiple execution modes demonstrates how performance can be optimized in real-world applications, making this project not only practical but also technically relevant.
 
