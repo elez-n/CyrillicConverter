@@ -2,7 +2,7 @@
 
 ## Overview
 
-SmartCyrillic is a Microsoft Word add-in developed using C# and VSTO that enables efficient and intelligent conversion of Latin text to Cyrillic.
+CyrillicConverter is a Microsoft Word add-in developed using C# and VSTO that enables efficient and intelligent conversion of Latin text to Cyrillic.
 
 The add-in provides multiple execution modes, including an advanced automatic mode that dynamically selects the optimal processing strategy based on text size and system performance.
 
